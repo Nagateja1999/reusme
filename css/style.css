@@ -1,25 +1,62 @@
 
 body{
 background-color: #EAF6F6;
+
+	}
+	p{
+		color: white;
+		font-family: system-ui;
+	}
+	a{
+		color: white;
+		font-family: system-ui;
 	}
 
 hr{
 			 
 			border-style:  none;
-			border-top-style: dotted;
+			border-top-style: dashed;
+
 			border-color: grey;
-			border-width: 7px;
+			border-width: px;
 			height: 0px;
-			width: 7%;
-			size: 10px;
+			width: 10%;
+			size: 3px;
 		}
 img{
 			height: 200px;
+			
+
 		}
 		h1{
-			color: #66BFBF;
+			
+			color: #B73E3E;
+			font-family: system-ui;
+
+
+		}
+		li{
+			color: white;
+		font-family: system-ui;
+
 		}
 		h3{
-			color: #66BFBF;
+			color: #B73E3E;
+			font-family: system-ui;
+			
 		}
+		table{
+			color: white;
+		font-family: system-ui;
+		}
+				a:link { 
+					text-decoration: none; 
+
+				}
+				a:hover{
+					background-color: #B73E3E;
+					padding: 1px 2px 0px;
+				}
+		
+
 	
